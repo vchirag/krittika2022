@@ -7,7 +7,7 @@ Group: Chirag Verma (IIT Roorkee), Gourav Kumawat (IISER Bhopal), Sarthak Talukd
 
 Code merged and scripted by Chirag Verma (IIT Roorkee)
 
-Project stored in the project folders
+Project stored in the project folders.
 
-Run /scripts/main.py
+Run /scripts/main.py.
 
