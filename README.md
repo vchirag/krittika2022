@@ -7,11 +7,6 @@ Group: Chirag Verma (IIT Roorkee), Gourav Kumawat (IISER Bhopal), Sarthak Talukd
 
 Code merged and scripted by Chirag Verma (IIT Roorkee)
 
-
-
-
-Data stored in Gdrive: https://drive.google.com/drive/folders/1Qn9I12bhKV-uDWiNP-AdzW1N-Ebk-vur?usp=sharing
-
 Project stored in the project folders
 
 Run /scripts/main.py
